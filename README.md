@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Lewis Kirby
+I am a final-year student at Loughborough University pursuing a newfound interest in data science following my industrial placement year.
 
-You can use the [editor on GitHub](https://github.com/lewiskirby/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# [Project 1: Pro Football Reference Webscrapers](https://github.com/lewiskirby/pfr-webscrapers)
+## Project Overview:
+* Created a webscraper using Python's BeautifulSoup module following the tutorial on the [Fantasy Football Data Pros website](https://www.fantasyfootballdatapros.com/) to find weekly fantasy data from 1999 onwards, based on the user's input
+* Using what I had learned, I then created an additional webscraper that is able to collect whole-season data for passing, rushing or receiving
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 2: Todd Gurley Exploratory Data Analysis](https://github.com/lewiskirby/todd-gurley-EDA)
+## Project Overview:
+* Collected Todd Gurley's career game log data from [Pro Football Reference](https://www.pro-football-reference.com/)
+* Data cleaning
+* Creating new features
+* Visualisations
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lewiskirby/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [Project 3: Student Performance Regression Model](https://github.com/lewiskirby/student-performance)
+## Project Overview:
+* Collect data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+* Data cleaning and management
+* Exploratory data analysis
+* Model building
+* Model evaluation
